@@ -5,10 +5,8 @@
   sazn.dev
 </h1>
 <p align="center">
-  <a href="https://brittanychiang.com" target="_blank">sazn.dev</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  <a href="https://sazn.dev" target="_blank">sazn.dev</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
-
-![demo](https://raw.githubusercontent.com/sajanlamsal/v4/main/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
