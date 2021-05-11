@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
+date: '2017-05-01'
 title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+company: 'JoBins'
+location: 'Osaka, Japan'
+range: 'May 2017 - Present'
+url: 'https://jobins.jp/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
