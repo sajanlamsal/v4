@@ -57,9 +57,8 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <p>
-      I'm a Osaka-based software engineer who specializes in building exceptional digital
-      experiences. Currently, I'm an engineer at <a href="https://jobins.jp/">JoBins</a> focused on
-      building better, human-resource products.
+      I'm an Osaka based software engineer specializing in building exceptional digital experiences.
+      Currently, I'm an engineering manager at <a href="https://jobins.jp/">JoBins</a>
     </p>
   );
   const five = (
