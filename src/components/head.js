@@ -40,7 +40,7 @@ const Head = ({ title, description, image }) => {
       <html lang="en" />
       <meta
         name="keywords"
-        content="Lamsal, Sajan, Sajan Lamsal, Sazn, saznlamsal, Saajan, Sazan, Sazn, Developer, Nepal, Engineer, Software"
+        content="Lamsal, Sajan, Sajan Lamsal, Sazn, saznlamsal, Saajan, Sazan, Sazn, Developer, Nepal, Japan, Engineer, Software"
       />
       <meta name="description" content={seo.description} />
       <meta name="image" content={seo.image} />
